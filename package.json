@@ -1,0 +1,14 @@
+{
+  "author": "roco",
+  "name": "japan.js",
+  "description": "Japan releated functions.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "http://github.com/rystyle/japan.js"
+  },
+  "engines": {
+    "node": "~0.6.5"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
